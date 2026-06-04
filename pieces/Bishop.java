@@ -1,4 +1,4 @@
-package pecas;
+package pieces;
 
 public class Bishop {
     
